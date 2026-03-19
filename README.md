@@ -19,7 +19,7 @@
   <img 
     style="width: 50px; height: 50px" 
     alt="css3"
-    src="https://github.com/devicons/devicon/blame/master/icons/css3/css3-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
   />
   <img 
     style="width: 50px; height: 50px" 
