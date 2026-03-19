@@ -4,7 +4,7 @@
   <img 
     style="width: 50px; height: 50px" 
     alt="javascript"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
   />  
   <img 
     style="width: 50px; height: 50px" 
@@ -14,12 +14,12 @@
   <img 
     style="width: 50px; height: 50px" 
     alt="html5"
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg"
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
   />
   <img 
     style="width: 50px; height: 50px" 
     alt="css3"
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg"
+    src="https://github.com/devicons/devicon/blame/master/icons/css3/css3-original.svg"
   />
   <img 
     style="width: 50px; height: 50px" 
@@ -38,8 +38,8 @@
   />  
   <img 
     style="width: 50px; height: 50px" 
-    alt="bootstrap"
-    src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+    alt="tailwindcss"
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
   />
   <img 
     style="width: 50px; height: 50px" 
