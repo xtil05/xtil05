@@ -1,5 +1,5 @@
 <h1>Hi, I'm Til</h1>  
-<p>A Fullstack Web & App developer from Germany</p>  
+<p>A Fullstack Web developer from Germany</p>  
 <p>  
   <img 
     style="width: 50px; height: 50px" 
