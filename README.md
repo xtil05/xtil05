@@ -46,4 +46,9 @@
     alt="azure"
     src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"
   />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="kubernetes"
+    src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"
+   />
 </p>
